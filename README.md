@@ -55,17 +55,6 @@
 
 ---
 
-### ✦ github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Hanzala&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=64B5F6&icon_color=64B5F6" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Hanzala&layout=compact&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=64B5F6" width="38%" />
-
-</div>
-
----
-
 ### ✦ contribution snake
 
 <div align="center">
