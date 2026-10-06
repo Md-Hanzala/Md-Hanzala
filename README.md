@@ -4,7 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B263B&height=200&section=header&text=Md%20Hanzala&fontSize=46&fontColor=E0F2FF&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20%C2%B7%20Aspiring%20AI%2FML%20Engineer&descColor=64B5F6&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=640&lines=AI%2FML+engineer+in+the+making;Building+backend+%2B+ML+systems;Practicing+DSA+in+C%2B%2B;Hackathon+runner-up+%7C+VoltGuard+AI" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=640&lines=Backend+engineer+in+the+making;Building+backend+%2B+ML+systems;Practicing+DSA+in+C%2B%2B;Hackathon+runner-up+%7C+VoltGuard+AI" alt="typing"/>
+
 
 <br/>
 
